@@ -15,14 +15,14 @@
 ### ~ Let's Connect
 
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/)
-[![Telegram](https://img.shields.io/badge/-Telegram-1e2327?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/)
-[![YouTube](https://img.shields.io/badge/-YouTube-1e2327?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://youtube.com/)
-[![Email](https://img.shields.io/badge/-Email-1e2327?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your.email@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/)
+[![YouTube](https://img.shields.io/badge/-YouTube-0d1117?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://youtube.com/)
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your.email@gmail.com)
 
 ### ~ Skills & Expertise
 
-![C++](https://img.shields.io/badge/-C++-121011?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)　
-![C#](https://img.shields.io/badge/C%23-121011?style=for-the-badge&logo=codio)　
+![C++](https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)　
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=codio)　
 ![JavaScript](https://img.shields.io/badge/-JavaScript-121011?style=for-the-badge&logo=javascript)　
 ![TypeScript](https://img.shields.io/badge/-TypeScript-121011?style=for-the-badge&logo=typescript&logoColor=47C2F8)　
 ![Python](https://img.shields.io/badge/-Python-121011?style=for-the-badge&logo=python&logoColor=FD2)　
