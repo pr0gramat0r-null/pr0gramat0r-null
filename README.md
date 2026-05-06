@@ -18,6 +18,15 @@
 　
 ---
 
+### ~ Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pr0gramat0r-null&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="My GitHub Stats" height="180" />
+  　<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pr0gramat0r-null&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="My Top Languages" height="180" />
+</p>
+
+---
+
 ### ~ Let's Connect
 
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=Ff2aB4)](https://instagram.com/)
