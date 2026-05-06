@@ -13,12 +13,6 @@
 
 ---
 
-### 📊 GitHub Статистика
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pr0gramat0r-null&layout=compact&theme=dark)
-
----
-
 ### 📋 Мови програмування
 
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
@@ -31,25 +25,22 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart)
 
-### 🎨 Frontend фреймворки та бібліотеки
+### 🎨 Фреймворки та бібліотеки
 
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=angular&logoColor=803044)
-![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=nextdotjs)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-090909?style=for-the-badge&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
-### 🔙 Backend фреймворки та інструменти
-
-![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=nodedotjs)
-![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=nestjs)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=green)
-![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=FASTAPI)
-![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask)
-![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel)
-![.NET](https://img.shields.io/badge/-.NET-090909?style=for-the-badge&logo=dotnet)
+![React](https://img.shields.io/badge/-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
+　![Vue.js](https://img.shields.io/badge/-090909?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+　![Angular](https://img.shields.io/badge/-090909?style=for-the-badge&logo=angular&logoColor=F54044)
+　![Next.js](https://img.shields.io/badge/-090909?style=for-the-badge&logo=nextdotjs&logoColor=green)
+　![Bootstrap](https://img.shields.io/badge/-090909?style=for-the-badge&logo=bootstrap)
+　![Tailwind CSS](https://img.shields.io/badge/-090909?style=for-the-badge&logo=tailwind-css)
+　![Vite](https://img.shields.io/badge/-090909?style=for-the-badge&logo=vite&logoColor=FF984E)
+　![Node.js](https://img.shields.io/badge/-090909?style=for-the-badge&logo=nodedotjs)
+　![NestJS](https://img.shields.io/badge/-090909?style=for-the-badge&logo=nestjs)
+　![Django](https://img.shields.io/badge/-090909?style=for-the-badge&logo=django&logoColor=green)
+　![FastAPI](https://img.shields.io/badge/-090909?style=for-the-badge&logo=FASTAPI)
+　![Flask](https://img.shields.io/badge/-090909?style=for-the-badge&logo=flask)
+　![Laravel](https://img.shields.io/badge/-090909?style=for-the-badge&logo=laravel)
+　![.NET](https://img.shields.io/badge/-090909?style=for-the-badge&logo=dotnet)
 
 ### 🗄️ Бази даних
 
@@ -104,7 +95,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://youtube.com/)
-[![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your.email@gmail.com)
 
 ---
 ⭐ **Якщо мій профіль вам сподобався, залиште зірочку на моєму репозиторії!**
