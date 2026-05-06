@@ -1,44 +1,45 @@
 [![Header](https://github.com/pr0gramat0r-null/pr0gramat0r-null/blob/main/~/header.gif)](https://github.com/pr0gramat0r-null)
 
-# 　　　♪　︾▽︾⩘　　 
+# 　　♪　︾▽︾⩘　　 
 # 　　　　　　*Hi!* ✨ Welcome to my frofile! ✨
-### 🤖 Bio
-- Розробляю веб-додатки з сучасними технологіями
-- Займаюсь оптимізацією та покращенням продуктивності систем
-- Навчаюсь адмініструванню OS та кібербезпеці
-- Практикуюсь в автоматизації процесів та використанню ШІ у проектах 
-- Працював над pet-проектами в Unreal Engine та Unity
-- Працюю над створенням кросплатформен додатків
-- Пишу скрипти, розширення та Ботів під різні платформи
 
-### 🔗 Contact
 
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://youtube.com/)
-[![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your.email@gmail.com)
+- Розробляю веб-додатки з сучасними технологіями,
+  - Займаюсь оптимізацією та покращенням продуктивності систем,
+- Навчаюсь адмініструванню OS та кібербезпеці,
+  - Практикуюсь в автоматизації процесів та використанню ШІ у проектах, 
+- Працював над pet-проектами в Unreal Engine та Unity,
+  - Працюю над створенням кросплатформен додатків,
+- Пишу скрипти, розширення та Ботів під різні платформи...
 
-### 📚 Skills
+### ~ Let's Connect
 
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=codio)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=47C2F8)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FD2)
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
-![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go)
-![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=F82)
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=4F45BF)
-![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=FF7204)
-![Prisma](https://img.shields.io/badge/-Prisma-090909?style=for-the-badge&logo=Prisma)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
-![GraphQL](https://img.shields.io/badge/-GraphQL-090909?style=for-the-badge&logo=graphql)
-![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger)
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
-![CMake](https://img.shields.io/badge/-CMake-090909?style=for-the-badge&logo=cmake)
-![JWT](https://img.shields.io/badge/-JWT-090909?style=for-the-badge&logo=JSON%20web%20tokens) 
+[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/)
+[![Telegram](https://img.shields.io/badge/-Telegram-1e2327?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/)
+[![YouTube](https://img.shields.io/badge/-YouTube-1e2327?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://youtube.com/)
+[![Email](https://img.shields.io/badge/-Email-1e2327?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your.email@gmail.com)
+
+### ~ Skills & Expertise
+
+![C++](https://img.shields.io/badge/-C++-121011?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)　
+![C#](https://img.shields.io/badge/C%23-121011?style=for-the-badge&logo=codio)　
+![JavaScript](https://img.shields.io/badge/-JavaScript-121011?style=for-the-badge&logo=javascript)　
+![TypeScript](https://img.shields.io/badge/-TypeScript-121011?style=for-the-badge&logo=typescript&logoColor=47C2F8)　
+![Python](https://img.shields.io/badge/-Python-121011?style=for-the-badge&logo=python&logoColor=FD2)　
+![PHP](https://img.shields.io/badge/-PHP-121011?style=for-the-badge&logo=php)　
+![Go](https://img.shields.io/badge/-Go-121011?style=for-the-badge&logo=go)　
+![Kotlin](https://img.shields.io/badge/-Kotlin-121011?style=for-the-badge&logo=kotlin&logoColor=F82)　
+![Flutter](https://img.shields.io/badge/-Flutter-121011?style=for-the-badge&logo=flutter&logoColor=47C5FB)　
+![Dart](https://img.shields.io/badge/-Dart-121011?style=for-the-badge&logo=dart&logoColor=4F45BF)　
+![MySQL](https://img.shields.io/badge/-MySQL-121011?style=for-the-badge&logo=mysql&logoColor=white)　
+![Firebase](https://img.shields.io/badge/-Firebase-121011?style=for-the-badge&logo=firebase&logoColor=FF7204)　
+![Prisma](https://img.shields.io/badge/-Prisma-121011?style=for-the-badge&logo=Prisma)　
+![Docker](https://img.shields.io/badge/-Docker-121011?style=for-the-badge&logo=docker)　
+![GraphQL](https://img.shields.io/badge/-GraphQL-121011?style=for-the-badge&logo=graphql)　
+![Swagger](https://img.shields.io/badge/-Swagger-121011?style=for-the-badge&logo=Swagger)　
+![Postman](https://img.shields.io/badge/-Postman-121011?style=for-the-badge&logo=Postman)　
+![CMake](https://img.shields.io/badge/-CMake-121011?style=for-the-badge&logo=cmake)　
+![JWT](https://img.shields.io/badge/-JWT-121011?style=for-the-badge&logo=JSON%20web%20tokens)　
 
 ---
 
