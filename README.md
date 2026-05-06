@@ -2,7 +2,6 @@
 
 # 　　♪　︾▽︾⩘　　 
 # 　　　　　　*Hi!* ✨ Welcome to my frofile! ✨
-　
 ### ~ Projects & learning
 - Building modern web apps; merged multiple projects to integrate sites with bots,
     cross-platform tools, and payment gateways.
