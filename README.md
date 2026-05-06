@@ -38,8 +38,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-121011?style=for-the-badge&logo=graphql)　
 ![Swagger](https://img.shields.io/badge/-Swagger-121011?style=for-the-badge&logo=Swagger)　
 ![Postman](https://img.shields.io/badge/-Postman-121011?style=for-the-badge&logo=Postman)　
-![CMake](https://img.shields.io/badge/-CMake-121011?style=for-the-badge&logo=cmake)　
-![JWT](https://img.shields.io/badge/-JWT-121011?style=for-the-badge&logo=JSON%20web%20tokens)　
+![CMake](https://img.shields.io/badge/-CMake-121011?style=for-the-badge&logo=cmake)
 
 ---
 
