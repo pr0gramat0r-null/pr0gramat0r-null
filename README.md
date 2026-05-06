@@ -2,24 +2,29 @@
 
 # 　　♪　︾▽︾⩘　　 
 # 　　　　　　*Hi!* ✨ Welcome to my frofile! ✨
-
-- Розробляю веб-додатки з сучасними технологіями декілька проектів поєднаннували
-  взаємодію сайту з ботами, програмами для інших платформ та налаштування оплати,
-  - Займаюсь оптимізацією та покращенням продуктивності різних платформ,
-- Навчаюсь адмініструванню OS, основам кіберзахисту та реверсній інженерії,
-  - Практикуюсь в автоматизації процесів для ефективності роботи
-    також застосування ШІ моделей у самих проектах, 
-- Працював над декількома pet-проектами в Unreal Engine та Unity,
-  - Працюю над створенням кросплатформених додатків,
-- Розробляю скрипти, розширення та ботів під різні потреби,
-  - Також маю досвід в зміні прошивки мобільних пристроїв 
-    та роботи з реєстром Windows і створеням бажаних конфігурацій системи...
+　
+### ~ Projects & learning
+- Building modern web apps; merged multiple projects to integrate sites with bots,
+    cross-platform tools, and payment gateways.
+  - Optimizing platform performance and tweaking efficiency.
+- Studying OS administration, cybersecurity basics, and reverse engineering.
+  - Automating workflows for maximum output;
+    integrating AI models directly into production code.
+- Dabbled in Unreal Engine & Unity pet projects;
+    currently crafting cross-platform solutions.
+  - Writing custom scripts, extensions, and bots on demand.
+- Flashed mobile firmware and hacked the Windows registry
+    to force systems into desired configurations.
+　
+---
 
 ### ~ Let's Connect
 
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=Ff2aB4)](https://instagram.com/)
 [![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/)
 [![YouTube](https://img.shields.io/badge/-YouTube-0d1117?style=for-the-badge&logo=YouTube&logoColor=FF2440)](https://youtube.com/)
+
+---
 
 ### ~ Skills & Expertise 
 
@@ -43,9 +48,11 @@
 
 ---
 
+### ~ Etc...
+
 ![Bootstrap](https://shieldcn.dev/badge/Bootstrap-fff?style=for-the-badge&logo=bootstrap&logoColor=7C3AED&variant=outline)　
 ![Angular](https://shieldcn.dev/badge/Angular-667eea.svg?logo=angular&logoColor=f10ffb&variant=outline)　
-![Node.js](https://shieldcn.dev/badge/Node-green?style=for-the-badge&logo=nodedotjs&logoColor=fff&variant=outline)
+![Node.js](https://shieldcn.dev/badge/Node-green?style=for-the-badge&logo=nodedotjs&logoColor=fff&variant=outline)　
 ![React](https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded)　
 ![Vue](https://shieldcn.dev/badge/Vue-4FC69D.svg?logo=vuedotjs&logoColor=000)　
 ![Next](https://shieldcn.dev/badge/Next-2EAD33?logo=nextdotjs&logoColor=FFF&ableColor=000)　
@@ -58,6 +65,8 @@
 ![.NET](https://shieldcn.dev/badge/Net-4B32C3?style=for-the-badge&logo=dotnet)
 
 ---
+
 ### ~ I'm *Programmer* or an *Owl*❔
+
 ![gif](https://media3.giphy.com/media/v1.Y2lkPWJmY2Q2MDNibWlrMjlmN2F2cm56YzR2MWo5MnVxYjBqOWp6ejlmeG5yZDNzdWRuciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gRb1341rklANq/200w.gif)
   
