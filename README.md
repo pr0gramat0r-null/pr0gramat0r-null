@@ -56,8 +56,6 @@
 
 ---
 
-### ~ Etc...
-
 ![Bootstrap](https://shieldcn.dev/badge/Bootstrap-fff?style=for-the-badge&logo=bootstrap&logoColor=7C3AED&variant=outline)　
 ![Angular](https://shieldcn.dev/badge/Angular-667eea.svg?logo=angular&logoColor=f10ffb&variant=outline)　
 ![Node.js](https://shieldcn.dev/badge/Node-green?style=for-the-badge&logo=nodedotjs&logoColor=fff&variant=outline)　
