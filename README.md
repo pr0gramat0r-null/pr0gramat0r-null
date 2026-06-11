@@ -17,20 +17,20 @@
 　
 ---
 
-### ~ Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=pr0gramat0r-null&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="My GitHub Stats" height="180" />
-  　<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pr0gramat0r-null&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="My Top Languages" height="180" />
-</p>
-
----
-
 ### ~ Let's Connect
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/it_archive_chat)　
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=Ff2aB4)](https://www.instagram.com/pr0gramat0r)　
 [![YouTube](https://img.shields.io/badge/-YouTube-0d1117?style=for-the-badge&logo=YouTube&logoColor=FF2440)](https://www.youtube.com/@pr0gramat0r_null)
+
+---
+
+### ~ Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pr0gramat0r-null&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pr0gramat0r-null&layout=compact&theme=tokyonight&border_radius=10&hide=css" alt="Top Languages" height="180" />
+</p>
 
 ---
 
@@ -61,5 +61,6 @@
 ![Tailwind CSS](https://shieldcn.dev/badge/Tailwind-FF1f59.svg?logo=tailwindcss&logoColor=fff&variant=branded)
 
 ---
-
-<img width="860" height="230" src="https://github.com/user-attachments/assets/a524b831-f10f-48b1-88e4-a94f858c4ffb" alt="CipherHsrGIF">
+<p align="center">
+    <img width="600" height="180" src="https://github.com/user-attachments/assets/a524b831-f10f-48b1-88e4-a94f858c4ffb" alt="CipherHsrGIF">
+</p>
