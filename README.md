@@ -1,4 +1,8 @@
-[![Header](https://github.com/pr0gramat0r-null/pr0gramat0r-null/blob/main/~/header.gif)](https://github.com/pr0gramat0r-null)
+<p align="center">
+    <img width="860" height="230" src="https://github.com/pr0gramat0r-null/pr0gramat0r-null/blob/main/~/header.gif?raw=true" alt="BannerGIF" />
+</p>
+
+
 #
 # 　　　　　　　　✨ ***Welcome to my frofile!*** ✨
 
@@ -19,7 +23,7 @@
 
 ### ~ Let's Connect
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/it_archive_chat)　
+　　 　 　 [![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/it_archive_chat)　
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=Ff2aB4)](https://www.instagram.com/pr0gramat0r)　
 [![YouTube](https://img.shields.io/badge/-YouTube-0d1117?style=for-the-badge&logo=YouTube&logoColor=FF2440)](https://www.youtube.com/@pr0gramat0r_null)
 
@@ -62,5 +66,5 @@
 
 ---
 <p align="center">
-    <img width="600" height="180" src="https://github.com/user-attachments/assets/a524b831-f10f-48b1-88e4-a94f858c4ffb" alt="CipherHsrGIF">
+    <img width="640" height="160" src="https://github.com/user-attachments/assets/a524b831-f10f-48b1-88e4-a94f858c4ffb" alt="CipherHsrGIF">
 </p>
