@@ -41,7 +41,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=47C2F8)　
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)　
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FD2)　
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php)　
 ![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go)　
 ![CMake](https://img.shields.io/badge/-CMake-0d1117?style=for-the-badge&logo=cmake&logoColor=0d3F8C)　
 ![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=47C5FB)　
