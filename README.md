@@ -1,6 +1,8 @@
 [![Header](https://github.com/pr0gramat0r-null/pr0gramat0r-null/blob/main/~/header.gif)](https://github.com/pr0gramat0r-null)
-
-# 　　  　         　  *Hi!* ✨ Welcome to my frofile! ✨
+##
+##
+# 　　　　　 *Hi!* ✨ Welcome to my frofile! ✨
+##
 ### ~ Projects & learning
 - Building modern web apps; merged multiple projects to integrate sites with bots,
     cross-platform tools, and payment gateways.
@@ -71,7 +73,5 @@
 
 ---
 
-### ~ I'm *Programmer* or an *Owl*❔
 
-![gif](https://media3.giphy.com/media/v1.Y2lkPWJmY2Q2MDNibWlrMjlmN2F2cm56YzR2MWo5MnVxYjBqOWp6ejlmeG5yZDNzdWRuciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gRb1341rklANq/200w.gif)
-  
+<img width="860" height="230" src="https://github.com/user-attachments/assets/a524b831-f10f-48b1-88e4-a94f858c4ffb" alt="CipherHsrGIF">
