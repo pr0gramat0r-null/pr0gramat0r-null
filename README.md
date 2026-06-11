@@ -1,8 +1,7 @@
 [![Header](https://github.com/pr0gramat0r-null/pr0gramat0r-null/blob/main/~/header.gif)](https://github.com/pr0gramat0r-null)
-##
-##
-# 　　　　　 *Hi!* ✨ Welcome to my frofile! ✨
-##
+
+# 　　　　　*Hi!* ✨ Welcome to my frofile! ✨ 　　　　　　　　　　　　　　　　　　　　　
+
 ### ~ Projects & learning
 - Building modern web apps; merged multiple projects to integrate sites with bots,
     cross-platform tools, and payment gateways.
@@ -29,9 +28,9 @@
 
 ### ~ Let's Connect
 
-[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=Ff2aB4)](https://instagram.com/)
-[![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/it_archive_chat)
-[![YouTube](https://img.shields.io/badge/-YouTube-0d1117?style=for-the-badge&logo=YouTube&logoColor=FF2440)](https://youtube.com/)
+[![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/it_archive_chat)　
+[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=Ff2aB4)](https://www.instagram.com/pr0gramat0r)　
+[![YouTube](https://img.shields.io/badge/-YouTube-0d1117?style=for-the-badge&logo=YouTube&logoColor=FF2440)](https://www.youtube.com/@pr0gramat0r_null)
 
 ---
 
@@ -55,23 +54,16 @@
 ![Postman](https://img.shields.io/badge/-Postman-0d1117?style=for-the-badge&logo=Postman&logoColor=F69220)　
 ![CMake](https://img.shields.io/badge/-CMake-0d1117?style=for-the-badge&logo=cmake&logoColor=0d3F8C)
 
----
-
-![Bootstrap](https://shieldcn.dev/badge/Bootstrap-fff?style=for-the-badge&logo=bootstrap&logoColor=7C3AED&variant=outline)　
 ![Angular](https://shieldcn.dev/badge/Angular-667eea.svg?logo=angular&logoColor=f10ffb&variant=outline)　
-![Node.js](https://shieldcn.dev/badge/Node-green?style=for-the-badge&logo=nodedotjs&logoColor=fff&variant=outline)　
-![React](https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded)　
-![Vue](https://shieldcn.dev/badge/Vue-4FC69D.svg?logo=vuedotjs&logoColor=000)　
-![Next](https://shieldcn.dev/badge/Next-2EAD33?logo=nextdotjs&logoColor=FFF&ableColor=000)　
-![Tailwind CSS](https://shieldcn.dev/badge/Tailwind-FF1f59.svg?logo=tailwindcss&logoColor=fff&variant=branded)　
-![Vite](https://shieldcn.dev/badge/Vite-7642f2?style=for-the-badge&logo=vite&logoColor=FFC84E)　 
 ![NestJS](https://shieldcn.dev/badge/Nest-181818?style=for-the-badge&logo=nestjs&logoColor=FF1E56)　
+![Next](https://shieldcn.dev/badge/Next-2EAD33?logo=nextdotjs&logoColor=FFF&ableColor=000)　
 ![Django](https://shieldcn.dev/badge/Django-3Fdd6E.svg?logo=django&variant=branded)　
+![Vue](https://shieldcn.dev/badge/Vue-4FC69D.svg?logo=vuedotjs&logoColor=000)　
 ![FastAPI](https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded)　
-![Laravel](https://shieldcn.dev/badge/Laravel-fa910f?style=for-the-badge&logo=laravel)　
-![.NET](https://shieldcn.dev/badge/Net-4B32C3?style=for-the-badge&logo=dotnet)
+![React](https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded)　
+![.NET](https://shieldcn.dev/badge/Net-4B32C3?style=for-the-badge&logo=dotnet)　 
+![Tailwind CSS](https://shieldcn.dev/badge/Tailwind-FF1f59.svg?logo=tailwindcss&logoColor=fff&variant=branded)
 
 ---
-
 
 <img width="860" height="230" src="https://github.com/user-attachments/assets/a524b831-f10f-48b1-88e4-a94f858c4ffb" alt="CipherHsrGIF">
