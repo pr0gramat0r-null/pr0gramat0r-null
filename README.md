@@ -1,6 +1,6 @@
 [![Header](https://github.com/pr0gramat0r-null/pr0gramat0r-null/blob/main/~/header.gif)](https://github.com/pr0gramat0r-null)
 #
-# 　　　　✨ ***Welcome to my frofile!*** ✨
+# 　　　　　　✨ ***Welcome to my frofile!*** ✨
 
 ### ~ Projects & learning
 - Building modern web apps; merged multiple projects to integrate sites with bots,
