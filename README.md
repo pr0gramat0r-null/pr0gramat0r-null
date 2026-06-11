@@ -54,14 +54,13 @@
 ![Postman](https://img.shields.io/badge/-Postman-0d1117?style=for-the-badge&logo=Postman&logoColor=F69220)　
 ![CMake](https://img.shields.io/badge/-CMake-0d1117?style=for-the-badge&logo=cmake&logoColor=0d3F8C)
 
-![Angular](https://shieldcn.dev/badge/Angular-667eea.svg?logo=angular&logoColor=f10ffb&variant=outline)　
-![NestJS](https://shieldcn.dev/badge/Nest-181818?style=for-the-badge&logo=nestjs&logoColor=FF1E56)　
-![Next](https://shieldcn.dev/badge/Next-2EAD33?logo=nextdotjs&logoColor=FFF&ableColor=000)　
+![Next](https://shieldcn.dev/badge/Next-6ad347.svg?logo=nextdotjs&logoColor=18181B&variant=branded)　
 ![Django](https://shieldcn.dev/badge/Django-3Fdd6E.svg?logo=django&variant=branded)　
-![Vue](https://shieldcn.dev/badge/Vue-4FC69D.svg?logo=vuedotjs&logoColor=000)　
-![FastAPI](https://shieldcn.dev/badge/FastAPI-009688.svg?logo=fastapi&logoColor=fff&variant=branded)　
-![React](https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded)　
+![Vue](https://shieldcn.dev/badge/Vue-4FC69D.svg?logo=vuedotjs&logoColor=18181B)　
+![FastAPI](https://shieldcn.dev/badge/FastAPI-62efdf.svg?logo=fastapi&logoColor=18181B&variant=branded)　
+![React](https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=18181B&variant=branded)　
 ![.NET](https://shieldcn.dev/badge/Net-4B32C3?style=for-the-badge&logo=dotnet)　 
+![Angular](https://shieldcn.dev/badge/Angular-E10098.svg?logo=angular&logoColor=fff&variant=branded)　
 ![Tailwind CSS](https://shieldcn.dev/badge/Tailwind-FF1f59.svg?logo=tailwindcss&logoColor=fff&variant=branded)
 
 ---
