@@ -1,7 +1,7 @@
 [![Header](https://github.com/pr0gramat0r-null/pr0gramat0r-null/blob/main/~/header.gif)](https://github.com/pr0gramat0r-null)
 
-# 　　　ಠ_ಠ ⩘　　 
-# 　　　　　　*Hi!* ✨ Welcome to my frofile! ✨
+# 　　ಠ_ಠ 　　 
+# 　　　　　*Hi!* ✨ Welcome to my frofile! ✨
 ### ~ Projects & learning
 - Building modern web apps; merged multiple projects to integrate sites with bots,
     cross-platform tools, and payment gateways.
