@@ -2,9 +2,9 @@
     <img width="860" height="230" src="https://github.com/pr0gramat0r-null/pr0gramat0r-null/blob/main/~/header.gif?raw=true" alt="BannerGIF" />
 </p>
 
+###  　  　 ~ Welcome to my profile! 🫟 
 
-#
-# 　　　　　　　　✨ ***Welcome to my frofile!*** ✨
+---
 
 ### ~ Projects & learning
 - Building modern web apps; merged multiple projects to integrate sites with bots,
@@ -23,7 +23,7 @@
 
 ### ~ Let's Connect
 
-　　 　 　 [![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/it_archive_chat)　
+　　 　 　[![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/it_archive_chat)　
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=Ff2aB4)](https://www.instagram.com/pr0gramat0r)　
 [![YouTube](https://img.shields.io/badge/-YouTube-0d1117?style=for-the-badge&logo=YouTube&logoColor=FF2440)](https://www.youtube.com/@pr0gramat0r_null)
 
@@ -65,6 +65,7 @@
 ![Tailwind CSS](https://shieldcn.dev/badge/Tailwind-FF1f59.svg?logo=tailwindcss&logoColor=fff&variant=branded)
 
 ---
+
 <p align="center">
     <img width="640" height="160" src="https://github.com/user-attachments/assets/a524b831-f10f-48b1-88e4-a94f858c4ffb" alt="CipherHsrGIF">
 </p>
