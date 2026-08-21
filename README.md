@@ -51,11 +51,10 @@
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB) 
  ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=6ad347) 
 ![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=E10098) 
-  ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=62efdf) 
-![NestJS](https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=E0234E) 
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=62efdf) 
 ![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=E10098) 
- ![Swagger](https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger)   
-![CMake](https://img.shields.io/badge/CMake-0d1117?style=for-the-badge&logo=cmake&logoColor=0d3F8C)  
+![Swagger](https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger)  
+ ![CMake](https://img.shields.io/badge/CMake-0d1117?style=for-the-badge&logo=cmake&logoColor=0d3F8C)  
 
 ---
 
